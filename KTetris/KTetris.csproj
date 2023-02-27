@@ -49,7 +49,6 @@
     <Compile Include="Block.cs" />
     <Compile Include="GenericTable.cs" />
     <Compile Include="PanelGrid.cs" />
-    <Compile Include="TableUtility.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="Util.cs" />
     <Compile Include="DoubleBufferedPanel.cs">
